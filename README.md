@@ -1,20 +1,6 @@
-# `@mkt/babel-plugin-try-catch`
+# `babel-plugin-try-catch`
 
 > 用try catch包裹你的函数，避免程序奔溃，以及上报异常和告警
-
-## Install
-
-### With Yarn
-
-```sh
-yarn add @mkt/babel-plugin-try-catch
-```
-
-### With NPM
-
-```sh
-npm i @mkt/babel-plugin-try-catch
-```
 
 ## Usage
 babel-loader中配置：
