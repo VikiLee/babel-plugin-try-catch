@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-try-catch",
+  "version": "0.0.1",
+  "description": "babel plugin to try catch function body",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest test/"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "try",
+    "catch",
+    "wrapper"
+  ],
+  "author": "weiji.li",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/template": "^7.7.4"
+  },
+  "devDependencies": {
+    "babel-plugin-tester": "^8.0.1",
+    "jest": "^24.9.0"
+  }
+}
